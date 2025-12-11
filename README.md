@@ -1,5 +1,5 @@
 # 💫 Hey, I'm Anushree
-🎓 5th Semester CSE (AIML) student  <br>🤖 Passionate about Machine Learning, AI Automation & Smart Systems  <br>💡 Currently building ML/AI mini-projects and learning advanced Python <br>📚 Exploring Deep Learning, OpenCV, and Data Science concepts  <br>🚀 Goal: Land a role in AI/ML and build impactful real-world projects<br>
+🎓 5th Semester CSE (AIML) student  <br>🤖 Passionate about Artificial Intelligence & Machine Learning  <br>💡 Currently building AI/ML mini-projects <br>📚 Exploring Deep Learning and Data Science concepts  <br>🚀 Goal: Land a role in AI/ML and build impactful real-world projects<br>
 
 
 # 💻 Tech Stack:
